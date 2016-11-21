@@ -1,0 +1,23 @@
+{
+  "name": "gathered.space",
+  "version": "1.0.0",
+  "description": "the gathered community",
+  "main": "index.js",
+  "dependencies": {
+    "yeticss": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahjbray/gathered.space.git"
+  },
+  "author": "sarahjbray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahjbray/gathered.space/issues"
+  },
+  "homepage": "https://github.com/sarahjbray/gathered.space#readme"
+}
